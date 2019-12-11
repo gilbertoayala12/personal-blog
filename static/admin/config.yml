@@ -1,6 +1,6 @@
 backend:
-  name: test-repo
-
+  name: github
+  repo: gilbertoayala12/personal-blog
 media_folder: static/assets
 public_folder: assets
 
