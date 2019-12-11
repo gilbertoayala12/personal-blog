@@ -4,7 +4,7 @@ module.exports = {
     title: `Welcome to my blog`,
     author: `Gilberto Ayala`,
     description: `A personal blog to share my knowledge and learn how to express myself better`,
-    siteUrl: ``,
+    siteUrl: `personalblogo.netlify.com`,
     social: {
       twitter: `gil1012`,
     },
