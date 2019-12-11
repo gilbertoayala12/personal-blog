@@ -38,9 +38,13 @@ function Bio() {
               everyday and Javascript aficionado.
               {` `}
               <span>Follow me on </span>
-              <a href={`https://twitter.com/${social.twitter}`}>Twitter</a>
+              <a href={`https://twitter.com/${social.twitter}`} target="_blank">
+                Twitter
+              </a>
               <span> and </span>
-              <a href={`https://github.com/gilbertoayala12`}>Github</a>
+              <a href={`https://github.com/gilbertoayala12`} target="_blank">
+                Github
+              </a>
             </p>
           </Container>
         )
